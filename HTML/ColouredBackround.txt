@@ -1,0 +1,9 @@
+<html>
+<title>Your website title</title>
+<body style="background-color:yellow;">
+<hi>Welcome message</hi>
+<p>Text will come here</p>
+</body>
+</html>
+
+#You can edit the colour by clicking it
