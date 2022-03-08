@@ -10,7 +10,7 @@
 <h1>Welcome message</h1>
 <body>
 
-<h3>Text will come here.</h3>
+<h3>Main text will come here.</h3>
 </body>
 
 </html>
