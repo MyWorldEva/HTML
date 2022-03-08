@@ -1,0 +1,19 @@
+Make your link to your or any social networks by doing so: ↓
+
+Example: ↓
+
+<a href="https://github.com/MyWorldEva">GITHUB</a>
+
+──────────────────────────────────────────────
+
+Add an image on your website by doing so: ↓
+
+──────────────────────────────────────────────
+
+First of all, make a file called images or whatever you wanna call it and upload the images you want. ↓
+
+EXAMPLE: ↓
+
+<img src="images/something.png" >
+
+❗ ALWAYS CHECK IF THE IMAGE IS JPG OR PNG ❗
